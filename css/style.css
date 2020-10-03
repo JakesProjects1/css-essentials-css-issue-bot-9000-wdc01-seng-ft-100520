@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-style: sans-serif;
+  font-size: 12em;
 }
 
 #tasks .completed {
